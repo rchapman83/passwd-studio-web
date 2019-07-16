@@ -23,7 +23,6 @@ defaults:
 description: Micro site for Passwd Studio API
 baseurl: "/home/"
 url: https://www.passwd.studio
-permalink: pretty
 github: rchapman83
 twitter: rchapman83
 email: 
