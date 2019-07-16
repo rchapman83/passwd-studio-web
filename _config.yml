@@ -26,7 +26,7 @@ url: https://www.passwd.studio
 github: rchapman83
 twitter: rchapman83
 email: 
-disqus-id: "passwdstudio"
+disqus-id: passwdstudio
 markdown: kramdown
 sass:
   style: compressed
