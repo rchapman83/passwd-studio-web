@@ -5,16 +5,6 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>http://www.passwd.studio/</loc>
-  <lastmod>2018-01-05T10:00:00+00:00</lastmod>
-  <news:news>
-     <news:publication>
-       <news:name>Passwd Studio live!</news:name>
-       <news:language>en</news:language>
-     </news:publication>
-     <news:genres>UserGenerated</news:genres>
-     <news:publication_date>2017-09-18</news:publication_date>
-     <news:title>Passwd Studio</news:title>
-     <news:keywords>password, passwd, studio, generator, etc-passwd</news:keywords>
-   </news:news>
+  <lastmod>2019-07-16T10:00:00+00:00</lastmod>
 </url>
 </urlset>
