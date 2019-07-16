@@ -27,7 +27,7 @@ permalink: pretty
 github: rchapman83
 twitter: rchapman83
 email: mail@example.com
-disqus-id: ''
+disqus-id: 
 markdown: kramdown
 sass:
-  style: :compressed
+  style: compressed
