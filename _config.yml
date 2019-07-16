@@ -1,20 +1,5 @@
-# Site settings
 ---
 title: Password Studio
-description: "Micro site for Passwd Studio API"
-# Subpath of your site, e.g. /blog/
-baseurl: "/home/"
-url: "https://www.passwd.studio"
-permalink: /:year/:title
-github: "rchapman83"
-twitter: "rchapman83"
-email: "mail@example.com"
-# leave blank if you dont want comments.
-disqus-id: ""
-# Build settings
-markdown: kramdown
-sass:
-    style: :compressed
 timezone: Australia/Melbourne
 collections:
   posts:
@@ -35,4 +20,14 @@ defaults:
     type: pages
   values:
     layout: page
+description: Micro site for Passwd Studio API
+baseurl: "/home/"
+url: https://www.passwd.studio
 permalink: pretty
+github: rchapman83
+twitter: rchapman83
+email: mail@example.com
+disqus-id: ''
+markdown: kramdown
+sass:
+  style: :compressed
