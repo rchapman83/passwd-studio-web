@@ -14,15 +14,15 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: '/posts/:title/'
 - scope:
     path: ''
     type: pages
   values:
     layout: page
 description: Micro site for Passwd Studio API
-baseurl: "/home/"
-url: https://www.passwd.studio
+baseurl: '/home'
+url: 'https://www.passwd.studio'
 github: rchapman83
 twitter: rchapman83
 email: 
@@ -30,4 +30,3 @@ disqus-id: passwdstudio
 markdown: kramdown
 sass:
   style: compressed
-theme: minima
