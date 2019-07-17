@@ -30,3 +30,4 @@ disqus-id: passwdstudio
 markdown: kramdown
 sass:
   style: compressed
+theme: minima
