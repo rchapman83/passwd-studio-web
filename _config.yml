@@ -1,0 +1,32 @@
+---
+title: passwd.studio
+timezone: Australia/Melbourne
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+description: Micro site for Passwd Studio API
+baseurl: "/home/"
+url: https://www.passwd.studio
+github: rchapman83
+twitter: rchapman83
+email: 
+disqus-id: passwdstudio
+markdown: kramdown
+sass:
+  style: compressed
