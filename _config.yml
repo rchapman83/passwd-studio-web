@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
 description: Micro site for Passwd Studio API
-baseurl: "/home/"
+baseurl: "/home"
 url: https://www.passwd.studio
 github: rchapman83
 twitter: rchapman83
