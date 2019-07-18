@@ -5,7 +5,7 @@ layout: default
 {% for post in site.posts limit:1 %}
   <article class="module color3">
     <h2>
-      <a class="red" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a class="colour3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
     <p>
