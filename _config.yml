@@ -30,5 +30,3 @@ disqus-id: passwdstudio
 markdown: kramdown
 sass:
   style: compressed
-
-theme: jekyll-theme-minimal
