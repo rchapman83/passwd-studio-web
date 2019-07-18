@@ -4,9 +4,6 @@ title: About
 date: 2019-07-16 22:06:00 +10:00
 permalink: /About/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+** Work in Progress **
+Building a RESTful API for this project to provide the ability to quickly generate strong passwords in various forms from the CLI using cURL. 
+I hope it may even become a building block for generating strong passwords in future apps. This is a personal project to promote the use of strong passwords.
