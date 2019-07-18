@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Contact
 date: 2019-07-16 22:23:00 +10:00
-permalink: /Contact/
+permalink: "/Contact/"
+layout: page
 ---
+
 contact deets
