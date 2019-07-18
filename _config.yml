@@ -24,6 +24,7 @@ description: Micro site for Passwd Studio API
 baseurl: "/"
 url: https://www.passwd.studio
 favicon: "/img/html.png"
+author: "Rowan Chapman"
 github: rchapman83
 twitter: rchapman83
 disqus-id: passwdstudio
