@@ -1,6 +1,5 @@
 ---
 title: passwd.studio
-encoding: UTF-8
 timezone: Australia/Melbourne
 collections:
   posts:
@@ -21,6 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
+encoding: UTF-8
 description: Micro site for Passwd Studio API
 baseurl: "/"
 url: https://www.passwd.studio
@@ -33,5 +33,5 @@ markdown: kramdown
 sass:
   style: compressed
 plugins:
-  - jemoji
-  - jekyll-sitemap
+- jemoji
+- jekyll-sitemap
