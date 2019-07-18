@@ -1,5 +1,6 @@
 ---
 title: passwd.studio
+encoding: UTF-8
 timezone: Australia/Melbourne
 collections:
   posts:
@@ -31,3 +32,6 @@ disqus-id: passwdstudio
 markdown: kramdown
 sass:
   style: compressed
+plugins:
+  - jemoji
+  - jekyll-sitemap
