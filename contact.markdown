@@ -7,4 +7,4 @@ layout: page
 
 github/{{ site.github }}
 <br>twitter/{{ site.twitter }}
-<br>Find more of my projects [here]<https://www.rnchapman.directory>
+<br>Find more of my projects [here](https://www.rnchapman.directory)
