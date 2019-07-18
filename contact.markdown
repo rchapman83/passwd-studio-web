@@ -5,4 +5,6 @@ permalink: "/Contact/"
 layout: page
 ---
 
-contact deets
+github/{{ site.github }}
+<br>twitter/{{ site.twitter }}
+<br>Find more of my projects [here]<https://www.rnchapman.directory>
