@@ -15,11 +15,13 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    sitemap: true
 - scope:
     path: ''
     type: pages
   values:
     layout: page
+    sitemap: true
 encoding: UTF-8
 description: Micro site for Passwd Studio API
 baseurl: "/"
