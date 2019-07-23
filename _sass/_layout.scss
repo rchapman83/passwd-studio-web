@@ -82,7 +82,7 @@ nav {
       background: $link-hover;
       border: 0;
       color: #ffffff !important;
-      // for now
+
     }
   }
   .module {
@@ -126,18 +126,18 @@ header {
 /*****************************************************************************/
 
 .main-footer {
-    width: 35%;
+    width: 65%;
     float: left;
-    line-height: 1.7;
+    
     p {
         line-height: $base-line-height;
         color: #000000;
-        font-size: 1em;
+        font-size: 10px;
     }
 }
 
 footer {
-  background: $blue1;
+  background: #ffffff;
 }
 
 /*****************************************************************************/
@@ -202,6 +202,7 @@ blockquote {
         font-size: large;
     }
     .main-header,
+    .main-footer,
     .main-content {
         width: 100%;
         padding: 0.75em;
@@ -211,6 +212,9 @@ blockquote {
     }
     .main-content .module {
         margin-top: 0;
+    }
+    .main-footer .module {
+        //margin-top: 0;
     }
     article.module {
         margin-left: 1.5em;
