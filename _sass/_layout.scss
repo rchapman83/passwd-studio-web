@@ -82,7 +82,7 @@ nav {
       background: $link-hover;
       border: 0;
       color: #ffffff !important;
-      // for now
+
     }
   }
   .module {
@@ -117,6 +117,27 @@ nav {
 
 header {
   background: $blue1;
+}
+
+/*****************************************************************************/
+/*
+/* Footer
+/*
+/*****************************************************************************/
+
+.main-footer {
+    width: 100%;
+    float: right;
+    padding:0;
+    
+    p {
+        color: #000000;
+        font-size: 12px;
+    }
+}
+
+footer {
+  background: #ffffff;
 }
 
 /*****************************************************************************/
@@ -181,6 +202,7 @@ blockquote {
         font-size: large;
     }
     .main-header,
+    .main-footer,
     .main-content {
         width: 100%;
         padding: 0.75em;
@@ -190,6 +212,9 @@ blockquote {
     }
     .main-content .module {
         margin-top: 0;
+    }
+    .main-footer .module {
+        margin-bottom: 0;
     }
     article.module {
         margin-left: 1.5em;
