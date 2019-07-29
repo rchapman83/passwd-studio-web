@@ -9,7 +9,7 @@ tags:
 - release notes
 ---
 
-Version 1 of
+Version 1 of my password generator API aka passwd.studio has been release. There are only two endpoints as the moment 
 `curl http://api.studio.passwd`
 or 
 `curl http://api.studio.passwd/key`
