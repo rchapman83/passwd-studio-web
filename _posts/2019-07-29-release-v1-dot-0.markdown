@@ -9,7 +9,8 @@ tags:
 - release notes
 ---
 
-Version 1 of my password generator API aka passwd.studio has been release. There are only two endpoints as the moment 
-`curl http://api.studio.passwd`
+Version 1 of my password generator API aka passwd.studio has been release. There are only two endpoints as the moment; root will generated a complex password 22 characters long and /key will generate a 64 character base64 string.  
+`code test`
+> curl http://api.studio.passwd/
 or 
-`curl http://api.studio.passwd/key`
+> curl http://api.studio.passwd/key
