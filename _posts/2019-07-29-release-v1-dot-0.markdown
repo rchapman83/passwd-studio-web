@@ -9,9 +9,7 @@ tags:
 - release notes
 ---
 
-![api.png](/uploads/api.png) 
----
 Version 1 of
-'curl http://api.studio.passwd'
+`curl http://api.studio.passwd`
 or 
-'curl http://api.studio.passwd/key'
+`curl http://api.studio.passwd/key`
