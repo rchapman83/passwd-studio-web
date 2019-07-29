@@ -1,6 +1,11 @@
 ---
 title: Hello World
 date: 2019-07-16 21:49:00 +10:00
+categories:
+- general
+tags:
+- note
 ---
 
-First post
+Hi, This is the very first post for passwd.studio. 
+I will be making updates here when I've release the password API or updated the API.
