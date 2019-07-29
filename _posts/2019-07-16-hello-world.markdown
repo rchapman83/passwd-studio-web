@@ -8,4 +8,4 @@ tags:
 ---
 
 Hi, This is the very first post for passwd.studio. 
-I will be making updates here when I've release the password API or updated the API.
+I will be making updates here when I've releases the password API or updated the API.
