@@ -12,3 +12,6 @@ tags:
 ![api.png](/uploads/api.png) 
 ---
 Version 1 of
+'curl http://api.studio.passwd'
+or 
+'curl http://api.studio.passwd/key'
