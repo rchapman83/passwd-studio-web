@@ -26,7 +26,7 @@ encoding: UTF-8
 description: Micro site for Passwd Studio API
 baseurl: "/"
 url: https://www.passwd.studio
-favicon: "/img/html.png"
+favicon: "/_uploads/html.png"
 author: Rowan Chapman
 github: rchapman83
 twitter: rchapman83
